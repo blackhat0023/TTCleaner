@@ -4,5 +4,7 @@ openpyxl
 deep_translator
 langdetect
 geopy
+scikit-learn
+nltk
 joblib
 tqdm
