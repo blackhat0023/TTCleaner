@@ -1,0 +1,6 @@
+streamlit
+pandas
+openpyxl
+tqdm
+joblib
+# Add any other libraries you use, like googletrans or nltk
