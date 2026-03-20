@@ -4,6 +4,8 @@ import datetime
 import time
 import re
 import io
+import nltk
+nltk.download('words')
 from collections import Counter
 from threading import Lock
 from joblib import Parallel, delayed
