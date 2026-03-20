@@ -1,6 +1,6 @@
 streamlit
 pandas
 openpyxl
+deep_translator
 tqdm
 joblib
-# Add any other libraries you use, like googletrans or nltk
