@@ -3,7 +3,6 @@ pandas
 openpyxl
 deep_translator
 langdetect
-tqdm
+geopy
 joblib
-nltk
-google-cloud-translate
+tqdm
