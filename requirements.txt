@@ -5,6 +5,8 @@ deep_translator
 langdetect
 geopy
 scikit-learn
+thefuzz
+python-Levenshtein
 nltk
 joblib
 tqdm
